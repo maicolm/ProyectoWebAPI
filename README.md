@@ -33,24 +33,24 @@ ProyectoAPI/
 
 ├── App_Start/
 
-│ └── WebApiConfig.cs → Configuración de rutas de la API
+│ └──── WebApiConfig.cs → Configuración de rutas de la API
 
 │
 ├── Controllers/
 
-│ └── UsuarioController.cs → Controlador principal para operaciones CRUD
+│ └──── UsuarioController.cs → Controlador principal para operaciones CRUD
 
 │
 ├── Data/
 
-│ ├── Conexion.cs → Clase de conexión a SQL Server
+│ ├──── Conexion.cs → Clase de conexión a SQL Server
 
-│ └── UsuarioData.cs → Lógica de acceso a datos, ejecución de SP
+│ └──── UsuarioData.cs → Lógica de acceso a datos, ejecución de SP
 
 │
 ├── Models/
 
-│ └── Usuario.cs → Modelo de datos del objeto Usuario o Producto
+│ └──── Usuario.cs → Modelo de datos del objeto Usuario o Producto
 
 │
 
