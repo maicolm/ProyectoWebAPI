@@ -30,19 +30,30 @@ Este proyecto es una **Web API RESTful** desarrollada en **ASP.NET con C#**, que
 
 ProyectoAPI/
 │
+
 ├── App_Start/
+
 │ └── WebApiConfig.cs → Configuración de rutas de la API
+
 │
 ├── Controllers/
+
 │ └── UsuarioController.cs → Controlador principal para operaciones CRUD
+
 │
 ├── Data/
+
 │ ├── Conexion.cs → Clase de conexión a SQL Server
+
 │ └── UsuarioData.cs → Lógica de acceso a datos, ejecución de SP
+
 │
 ├── Models/
+
 │ └── Usuario.cs → Modelo de datos del objeto Usuario o Producto
+
 │
+
 └── DBPRUEBAS.sql → Script SQL de la base de datos
 
 ---
