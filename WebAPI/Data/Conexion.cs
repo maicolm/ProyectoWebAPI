@@ -7,7 +7,7 @@ namespace WebAPI.Data
 {
     public class Conexion
     {
-        public static string rutaConexion = "Data Source=15-GTI-MRIVERAZ\\SQLEXPRESS;Initial Catalog=DBPRUEBAS;Integrated Security=True";
+        public static string rutaConexion = "Data Source=TU_SERVIDOR;Initial Catalog=DBPRUEBAS;Integrated Security=True";
         
     }
 }
